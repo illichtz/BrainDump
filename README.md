@@ -15,7 +15,7 @@
 
 ---
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE App -->
 ## About The Project
 
 BrainDump is an intuitive note-taking tool designed to help you capture ideas, links, and more in a quick and organized manner. Whether you’re brainstorming, jotting down a quick note, or storing a link for later, BrainDump provides an easy-to-use, chat-like interface for fast and efficient note-taking.
