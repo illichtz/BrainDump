@@ -8,12 +8,9 @@
 <h2 align="center">BrainDump</h2>
 
   <p align="center">
-    A simple yet powerful app to quickly write your thoughts, links, and ideas in a chat-like interface. Access all your notes in one place and export your data effortlessly!
+    A simple app to quickly write your thoughts, links, and ideas in a chat-like interface. Access all your notes in one place and export your data effortlessly!
     <br />
-    <a href="https://github.com/sample_user/braindump/issues/new?labels=bug&template=bug-report---.md"><strong>Report Bug</strong></a>
-    ·
-    <a href="https://github.com/sample_user/braindump/issues/new?labels=enhancement&template=feature-request---.md"><strong>Request Feature</strong></a>
-  </p>
+     </p>
 </div>
 
 ---
@@ -31,9 +28,9 @@ Key features include:
 - **Offline**: Fully Offline.
 
 <p align="center">
-  <img src="https://github.com/sample_user/braindump/blob/master/assets/screenshot1.jpg" alt="BrainDump Screenshot 1" width="300px" style="margin: 10px;">
-  <img src="https://github.com/sample_user/braindump/blob/master/assets/screenshot2.jpg" alt="BrainDump Screenshot 2" width="300px" style="margin: 10px;">
-  <img src="https://github.com/sample_user/braindump/blob/master/assets/screenshot3.jpg" alt="BrainDump Screenshot 3" width="300px" style="margin: 10px;">
+  <img src="assets/screenshot1.jpg" alt="BrainDump Screenshot 1" width="300px" style="margin: 10px;">
+  <img src="assets/screenshot2.jpg" alt="BrainDump Screenshot 2" width="300px" style="margin: 10px;">
+  <img src="assets/screenshot3.jpg" alt="BrainDump Screenshot 3" width="300px" style="margin: 10px;">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -48,7 +45,6 @@ BrainDump can be used in various scenarios:
 - **Personal Note Management**: Organize your notes in a chat format for easy reference.
 - **Data Export**: Export your notes to CSV for use in other applications or for backup.
 
-For more examples and usage instructions, please refer to the [Documentation](https://github.com/sample_user/braindump/wiki).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,7 +60,6 @@ For more examples and usage instructions, please refer to the [Documentation](ht
 - [ ] Share intent automatically added as a note
 - [ ] Store audio and image media
 
-See the [open issues](https://github.com/sample_user/braindump/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
