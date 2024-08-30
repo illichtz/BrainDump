@@ -37,6 +37,13 @@ Key features include:
 
 ---
 
+<!-- DOWNLOAD -->
+## Download
+
+You can download the latest version of BrainDump from the [Releases Page](https://github.com/illichtz/BrainDump/releases/).
+
+---
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
