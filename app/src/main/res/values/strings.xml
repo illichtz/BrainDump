@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BrainDump</string>
+    <string name="settings">Settings</string>
+    <string name="type_note">Type Note</string>
+    <string name="send_message">Send</string>
+    <string name="add_file">Add file</string>
+    <string name="menu">menu</string>
+</resources>
